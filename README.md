@@ -24,6 +24,8 @@ I'm currently learning React for group project use, and Spring Boot for Cloud an
 
 ### Some stats
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adam4531&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Adam4531's GitHub stats](https://github-readme-stats.vercel.app/api?username=adam4531&show_icons=true&theme=transparent)
+](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Adam4531/Adam4531** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
