@@ -11,12 +11,6 @@ I'm currently learning React for group project use, and Spring Boot for Cloud an
 
 - Currently I'm mainly fascinated with martial arts, especially Muay Thai at the moment but it will take me some time to achieve some profesionalism.
 
-- As majority of peers I'm of course interested in automotive. My dream car of all times is McLaren P1 <!-- 2 zdanie raczej do usunięcia-->
-
-- Kayaking and walks in the nature are really good way to unstress and calm down. (Maybe on the start you will not feel any difference but after some time You will feel more peaceful and happier)
-
-- I'm in love with science fiction/fantasy books. From the science fiction books I recommend the all "Arc of a Scythe" series. Well even though the book is focused for younger people, the main storyline of the world divide by AI managing the normal aspects of live and the people who are called Scythes managing the problem of overpopulating. It is very interesting vision of the future world.
-
 
 <!-- ### Repos -->
 
