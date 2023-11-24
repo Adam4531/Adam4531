@@ -2,9 +2,9 @@
 
 My name is Adam and I'm a Computer Science student at University of Warmia-Masuria.
 
-I'm currently working on custom SCRUM web app for [DBK group](https://grupadbk.com/) as part of group project led by UWM. I'm also taking part in creating a clinic's support system, which will be finished on the 5th June.
+I'm currently working on e-commerce web app for my Bachelor Thesis.
 
-I'm currently learning React for group project use, and Spring Boot for Cloud and REST API for my next project in the near future.
+I'm currently learning React for completing Bachelor Thesis.
 
 
 ### Hobbies
