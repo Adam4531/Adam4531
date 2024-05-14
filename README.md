@@ -2,14 +2,12 @@
 
 My name is Adam and I'm a Computer Science student at University of Warmia-Masuria.
 
-I'm currently working on e-commerce web app for my Bachelor Thesis.
-
-I'm currently learning React for completing Bachelor Thesis.
+I'm currently working as Junior Laravel Developer in one of domestic company.
 
 
 ### Hobbies
 
-- Currently I'm mainly fascinated with martial arts, especially Muay Thai at the moment but it will take me some time to achieve some profesionalism at it.
+- Currently I'm mainly fascinated with martial arts, especially Muay Thai at the moment but it will take me some time to achieve some proficency at it.
 
 
 <!-- ### Repos -->
